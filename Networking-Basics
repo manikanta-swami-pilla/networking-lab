@@ -1,0 +1,88 @@
+What is an IP address ?
+
+**Answer:**
+An IP address (Internet Protocol address) is a unique identifier assigned to each device connected to a network. It allows devices to communicate with each other over the internet or local networks.
+
+**Example:**
+IPv4: 192.168.1.1
+IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+---
+
+What is subnetting?
+
+**Answer:**
+Subnetting is the process of dividing a network into smaller, more manageable sub-networks (subnets). It helps improve network performance and security.
+
+**Example:**
+Splitting 192.168.1.0/24 into two subnets:
+192.168.1.0/25 (hosts 1-126)
+192.168.1.128/25 (hosts 129-254)
+
+---
+
+What is CIDR?
+
+	Answer:
+	An IP address (Internet Protocol address) is a unique identifier assigned to each device connected to a network. It allows devices to communicate with each other over the internet or local networks.
+	Example:
+	IPv4: 192.168.1.1
+	IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+---
+
+What is subnetting?
+	Answer:
+	Subnetting is the process of dividing a network into smaller, more manageable sub-networks (subnets). It helps improve network performance and security.
+	Example:
+	Splitting 192.168.1.0/24 into two subnets:
+	192.168.1.0/25 (hosts 1-126)
+	192.168.1.128/25 (hosts 129-254)
+
+---
+
+What is CIDR?
+	Answer:
+	CIDR (Classless Inter-Domain Routing) is a method for allocating IP addresses and routing that replaces the old class-based system. It uses a prefix (e.g., /24) to specify the network portion of an IP address.
+	Example:
+	192.168.1.0/24 means the first 24 bits are the network part, leaving 8 bits for host addresses.
+
+---
+
+What is a Port?
+	Answer:
+	A port is a logical endpoint for communication in networking, used to identify specific processes or services on a device.
+	Example:
+	HTTP uses port 80
+
+	What is an IP address?
+		Answer:
+		An IP address is like a home address for your computer or phone on a network. It helps devices find and talk to each other.
+		Example:
+		IPv4: 192.168.1.1 (like a street address)
+		IPv6: 2001:0db8:85a3:... (used for newer devices)
+
+	---
+
+	What is subnetting?
+		Answer:
+		Subnetting is like splitting a big group into smaller teams so things are easier to manage. It helps organize devices and keeps the network running smoothly.
+		Example:
+		If you have 100 devices, you can split them into two groups of 50 each.
+
+	---
+
+	What is CIDR?
+		Answer:
+		CIDR is a way to write IP addresses that shows how many devices can be in a group. It makes it easier to organize and share addresses.
+		Example:
+		192.168.1.0/24 means you can have up to 256 devices in that group.
+
+	---
+
+	What is a Port?
+		Answer:
+		A port is like a door on your computer that lets certain types of information in and out. Different doors are used for different things.
+		Example:
+		Web pages use port 80
+		Secure web pages use port 443
