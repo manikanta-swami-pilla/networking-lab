@@ -26,3 +26,5 @@ Example:
 HTTP uses port 80
 
 To get IP address: ip -4 addr show eth0 | grep -oP '(?<=inet\s)\d+(\.\d+){3}'
+
+To connect WSL Ubuntu specific version: wsl -d Ubuntu-Copy
